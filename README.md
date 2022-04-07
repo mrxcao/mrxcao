@@ -4,12 +4,23 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: @mrxcao, /mnrxcao or francisco.ramos@gmail.com
 
-<div align="center">
-  <a href="https://github.com/mrxcao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrxcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxcao&layout=compact&langs_count=7&theme=dark"/>
+<div>
+  <h3>I work with ...</h3>
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
-  
+
+<div>
+  <h3>on github ...</h3>
+  <div align="center">
+    <a href="https://github.com/mrxcao">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrxcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxcao&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+</div>  
+
   <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxcao)](https://github.com/anuraghazra/github-readme-stats)
   -->
